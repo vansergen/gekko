@@ -16,7 +16,7 @@
   "author": "Mike van Rossum <mike@mvr.me>",
   "dependencies": {
     "async": "2.1.2",
-    "bitfinex-api-node": "^1.2.1",
+    "bitfinex-api-node": "^4.0.11",
     "co-fs": "^1.2.0",
     "commander": "^2.20.3",
     "gekko": "0.0.9",
@@ -39,7 +39,7 @@
     "stats-lite": "^2.0.4",
     "tiny-promisify": "^0.1.1",
     "toml": "^2.3.0",
-    "ws": "^6.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "chai": "^4.1.2",
